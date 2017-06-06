@@ -1,3 +1,7 @@
 This is my PHP-course homeworks
 
-1st is forms validation
+forms is just form validation
+
+&
+
+Last is all course work (with db create & insert)
